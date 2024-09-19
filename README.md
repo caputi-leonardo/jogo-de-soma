@@ -1,2 +1,15 @@
-# jogo-de-soma
-Este projeto oferece um ambiente interativo para aprimorar suas habilidades em matemática básica. O usuário pode escolher entre adição, subtração, multiplicação e divisão, e o sistema gera exercícios aleatórios. A cada resposta correta, o usuário ganha pontos, tornando o aprendizado mais engajador.
+## Treinador de Cálculo Personalizado
+
+Este projeto foi desenvolvido para auxiliar no aprendizado das quatro operações básicas (adição, subtração, multiplicação e divisão). Com foco na personalização, utilizei um template Bootstrap como base e desenvolvi toda a lógica em JavaScript. Ideal para quem busca praticar e aprimorar suas habilidades matemáticas.
+
+**Características:**
+* Interface intuitiva e personalizável
+* Exercícios gerados aleatoriamente
+* Feedback instantâneo sobre as respostas
+* Código fonte aberto para aprendizado
+
+**Tecnologias:** HTML, CSS (Bootstrap), JavaScript
+
+Projeto Desenvolvido para aprendizado de noções de JavaScript envolvendo funções e operações matemáticas.
+
+#aprendizado #matemática #javascript #bootstrap #códigoaberto #personalizado
